@@ -49,8 +49,8 @@ This project implements an image captioning model using an **Encoder-Decoder arc
 
 | Metric   | Score |
 |----------|-------|
-| BLEU-1   | 62%   |
-| BLEU-2   | 41%   |
+| BLEU-1   | 65%   |
+| BLEU-2   | 42%   |
 | BLEU-3   | 27%   |
 | BLEU-4   | 18%   |
 
